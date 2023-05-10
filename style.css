@@ -1,0 +1,63 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+body {
+  background-color: #fff0fd;
+}
+h1 {
+  color: #542c4f;
+  font-family: 'Dm serif display', serif;
+  text-transform: uppercase;
+    font-size: 3em;
+
+}
+
+h2 {
+  font-family: 'dm serif display', serif;
+  color: #ab1d98;
+  font-weight: bold;
+    font-size: 2em;
+
+}
+h3 {
+  font-family: 'Comfortaa', sans-serif;
+  font: bold;
+  color: #542c4f;
+    font-size: 2em;
+
+}
+h4 {
+  font-family: 'Comfortaa', sans-serif;
+  color: #542c4f;
+  font-size: 1.5em;
+
+}
+
+p {
+  font-family: 'Comfortaa', sans-serif;
+  color: black;
+  font-size: 18px;
+} 
+ul {
+  font-family: 'Comfortaa', sans-serif;
+    font-size: 16px;
+
+}
+a:link {
+  color: #ab1d98;
+}
+
+a:visited {
+  color: #ab1d98;
+}
+
+a:hover {
+ color:#ff4d6d;
+}
+
+a:active {
+ color:#ff4d6d;
+}
+
+img {
+  width: 40%; 
+  height: auto; 
+}
